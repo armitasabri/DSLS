@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# MacOS System Files
+.DS_Store
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data Files
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.zip
+*.tar.gz
+
+# Environment / Credentials
+.env
+*.sqlite3
